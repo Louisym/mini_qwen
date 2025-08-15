@@ -11,7 +11,7 @@ openai==1.66.2
 pandas==2.2.3
 peft==0.14.0
 safetensors==0.5.3
-torch==2.5.1+cu118
+torch==2.5.1
 tqdm==4.67.0
 transformers==4.49.0
 trl==0.15.2
